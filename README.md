@@ -1,6 +1,6 @@
 # Introduction
 
-This project is a simple Node.js application that shows how to create your own API using Express.js framework.
+This project is a simple Node.js application that shows how to create a restful API using Express.js framework.
 
 # Prerequisites
 
